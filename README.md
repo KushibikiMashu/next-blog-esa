@@ -58,3 +58,4 @@ Deploy it to the cloud with [Vercel](https://vercel.com/import?filter=next.js&ut
 # Notes
 
 This blog-starter uses [Tailwind CSS](https://tailwindcss.com). To control the generated stylesheet's filesize, this example uses Tailwind CSS' v1.4 [`purge` option](https://tailwindcss.com/docs/controlling-file-size/#removing-unused-css) to remove unused CSS.
+# nextjs-cms-esa
