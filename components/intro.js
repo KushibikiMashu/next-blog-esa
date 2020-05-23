@@ -14,7 +14,15 @@ export default function Intro() {
         >
           Next.js
         </a>{' '}
-        and {CMS_NAME}.
+        and
+        {' '}
+        <a
+          href="https://esa.io/"
+          className="underline hover:text-success duration-200 transition-colors"
+        >
+          {CMS_NAME}
+        </a>
+        .
       </h4>
     </section>
   )
