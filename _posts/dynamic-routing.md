@@ -1,13 +1,14 @@
 ---
 title: 'Dynamic Routing and Static Generation'
 excerpt: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilisi morbi tempus.'
-coverImage: '/assets/blog/dynamic-routing/cover.jpg'
+coverImage: 'https://img.esa.io/uploads/production/attachments/15613/2020/05/23/44031/2413e24d-5158-4c26-b69f-c66bd9bab0db.jpg'
 date: '2020-03-16T05:35:07.322Z'
 author:
   name: JJ Kasper
-  picture: '/assets/blog/authors/jj.jpeg'
+  picture: 'https://img.esa.io/uploads/production/attachments/15613/2020/05/23/44031/7d97eaf1-338e-4cf1-bfcb-cf5fe3d87145.jpeg'
 ogImage:
-  url: '/assets/blog/dynamic-routing/cover.jpg'
+  url: 'https://img.esa.io/uploads/production/attachments/15613/2020/05/23/44031/2413e24d-5158-4c26-b69f-c66bd9bab0db.jpg'
+slug: 'dynamic-routing'
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilisi morbi tempus. Praesent elementum facilisis leo vel fringilla. Congue mauris rhoncus aenean vel. Egestas sed tempus urna et pharetra pharetra massa massa ultricies.
